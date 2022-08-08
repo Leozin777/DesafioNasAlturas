@@ -1,0 +1,9 @@
+.vs
+Library
+Temp
+*.apk
+Assembly-CSharp.csproj
+Desafio nas Alturas.sln
+/build
+/.vscode
+/DesafioNasAlturas_Data
